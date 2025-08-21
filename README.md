@@ -67,7 +67,7 @@ To explore the dashboard interactively:
 
 ## 👨‍💻 Author
 
-**Lokesh Yuvraj Khadke**
+**Lokesh k**
 MSc Data Science, University of Surrey (2024–2025)
 Passionate about transforming raw data into actionable insights through analytics and compelling visualization.
 
